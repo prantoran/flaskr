@@ -1,2 +1,6 @@
 .idea*
 .idea/
+flaskr.egg-info/
+flaskrprac
+*.pyc
+
