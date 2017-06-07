@@ -2,14 +2,21 @@
 
 ## Tutorial Link: 
 
-http://flask.pocoo.org/docs/0.12/tutorial/
+	http://flask.pocoo.org/docs/0.12/tutorial/
 
 ## Create VirtualEnv
 
-$ virtualenve flaskrprac
+	$ virtualenve flaskrprac
 
 ## Run script
 
-$ source scripts/build.sh
+	$ source scripts/build.sh
+
+## Notes:
+
+#### Context Objects Used:
+	
+	g, request	
+	
 
 
