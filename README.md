@@ -1,4 +1,4 @@
-# Flaskr Prac from Flask Documentation
+# Flaskr practice from Flask documentation
 
 ## Tutorial Link: 
 
@@ -7,6 +7,11 @@
 ## Create VirtualEnv
 
 	$ virtualenve flaskrprac
+
+
+## Create a sqlite schema
+
+	$ sqlite3 /tmp/flaskr.db < schema.sql
 
 ## Run script
 
